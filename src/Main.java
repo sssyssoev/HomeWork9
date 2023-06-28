@@ -7,6 +7,7 @@ public class Main {
         task2();
         task3();
         task4();
+        System.out.println(" И одна строчка измнений для 2-го коммита при сдаче");
     }
 
     public static int[] generateRandomArray() {
